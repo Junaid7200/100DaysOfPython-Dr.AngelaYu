@@ -1,0 +1,6 @@
+Method,Accuracy,Strengths,Weaknesses
+Edge Detection,0.7,"Simple, Fast",Sensitive to noise
+Template Matching,0.75,Effective for known templates,Fails for unknown templates
+SVM,0.85,Good for small datasets,Poor scalability
+KNN,0.8,Easy to implement,Requires good distance metric
+CNN,0.95,"High accuracy, Robust",Requires large datasets
