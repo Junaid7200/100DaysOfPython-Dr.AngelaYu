@@ -1,0 +1,5 @@
+Limitation,Solution
+Lighting conditions,"Color normalization, Illumination-invariant feature extraction"
+Environment clutter,Occlusion-aware CNN architectures
+Sign variability,Data augmentation techniques
+Data acquisition,"One-shot learning, Domain adaptation"
